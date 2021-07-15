@@ -3,20 +3,18 @@
   <head>
     <meta charset='UTF-8'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0'>
-    <link rel='stylesheet' href='./pages/index.css'>
-    <script src='./pages/index.js' defer></script>
     <title>Egor Zheglov</title>
   </head>
   <body>
     <div class='page'>
         <header class='header'> 
             <div class='header__logo'>
-              <img class='header__logo-img' src='./images/Logo.svg' alt='Logo'>
+              <img class='header__logo-img' src="<%=require('./images/Logo.svg')%>" alt='Logo'>
               <div class='header__logo-name'>Professional Photografer</div>
             </div>
             <div>
                 <div class='header__info'>
-                    <img class='header__email-img' src='./images/email_pic.svg'>
+                    <img class='header__email-img' src="<%=require('./images/email_pic.svg')%>">
                     <div class='header__email'>lorenzo_anderson@hotmail.com</div>
                     <button class='header__info-button'></button>
                 </div>

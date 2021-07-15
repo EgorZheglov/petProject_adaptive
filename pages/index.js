@@ -1,3 +1,5 @@
+import '../pages/index.css'; 
+
 const profileInfoButton = document.querySelector('.header__info-button');
 const closeOverlayButton = document.querySelector('.overlay__close-button')
 
