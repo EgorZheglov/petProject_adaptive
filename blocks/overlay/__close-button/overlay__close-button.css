@@ -1,0 +1,15 @@
+.overlay__close-button{
+    background-image: url(../../../images/close.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    border: none;
+    background-color: rgba(0, 0, 0, 0);
+    margin-top:40px;
+    margin-bottom: 268px;
+    width:48px;
+    height:48px;
+}
+
+.overlay__close-button:hover{
+    background-image: url(../../../images/close_big.png);
+}

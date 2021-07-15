@@ -1,0 +1,16 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 32px;
+    width: calc(100% - 312px);
+    align-items: center;
+    margin-bottom: 174px;
+}
+
+@media (max-width:768px) {
+    .header{
+        width: calc(100% - 60px);
+        margin-bottom: 80px;
+    }
+}

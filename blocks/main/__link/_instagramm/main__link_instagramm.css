@@ -1,0 +1,8 @@
+.main__link_instagramm{
+    background-image: url(../../../../images/instagram.svg);
+}
+
+.main__link_instagramm:hover{
+    background-image: url(../../../../images/instagramActive.png);
+    cursor: pointer;
+}

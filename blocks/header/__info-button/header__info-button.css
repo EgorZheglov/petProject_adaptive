@@ -1,0 +1,12 @@
+.header__info-button{
+    background-image:url(../../../images/menu.svg);
+    background-color: inherit;
+    border: none;
+    width:48px;
+    height:48px;
+}
+
+.header__info-button:hover{
+    background-image:url(../../../images/menu_active.png);
+    cursor:pointer;
+}

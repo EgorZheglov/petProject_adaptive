@@ -1,0 +1,34 @@
+@import url(../vendor/normalize.css);
+
+@import url(../fonts/font-face.css);
+
+@import url(../blocks/page/page.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__logo-img/header__logo-img.css);
+@import url(../blocks/header/__logo-name/header__logo-name.css);
+@import url(../blocks/header/__info/header__info.css);
+@import url(../blocks/header/__email-img/header__email-img.css);
+@import url(../blocks/header/__email/header__email.css);
+@import url(../blocks/header/__info-button/header__info-button.css);
+@import url(../blocks/main/main.css);
+@import url(../blocks/main/__info/main__info.css);
+@import url(../blocks/main/__info-title/main__info-title.css);
+@import url(../blocks/main/__info-desctiption/main__info-desctiption.css);
+@import url(../blocks/main/__hire-button/main__hire-button.css);
+@import url(../blocks/main/__border/main__border.css);
+@import url(../blocks/main/__links-section/main__links-section.css);
+@import url(../blocks/main/__vertical/main__vertical.css);
+@import url(../blocks/main/__links-list/main__links-list.css);
+@import url(../blocks/main/__link/main__link.css);
+@import url(../blocks/main/__link/_FB/main__link_FB.css);
+@import url(../blocks/main/__link/_instagramm/main__link_instagramm.css);
+@import url(../blocks/main/__link/_twitter/main__link_twitter.css);
+@import url(../blocks/overlay/overlay.css);
+@import url(../blocks/overlay/__content/overlay__content.css);
+@import url(../blocks/overlay/__close-button/overlay__close-button.css);
+@import url(../blocks/overlay/__link/overlay__link.css);
+
+.border{
+    border:1px solid red;
+}

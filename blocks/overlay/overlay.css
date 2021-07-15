@@ -1,0 +1,13 @@
+.overlay{
+    position: absolute; 
+    display: none;
+    flex-direction: column;
+    padding-right: 150px;
+    align-items: flex-end;
+    background-color:rgba(0,0,0, .96); 
+    top:0; 
+    bottom:0; 
+    left:0; 
+    right:0; 
+    color:black; 
+}

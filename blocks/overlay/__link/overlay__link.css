@@ -1,0 +1,13 @@
+.overlay__link{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 48px;
+    color:rgba(230, 223, 199, 1);
+    text-decoration: none;
+}
+
+
+.overlay__link:hover{
+    color:rgba(235, 207, 111, 1);
+}

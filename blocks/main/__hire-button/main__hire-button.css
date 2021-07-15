@@ -1,0 +1,18 @@
+.main__hire-button{
+  width: 200px;
+  height: 64px;
+  background-color: rgba(230, 223, 199, 0.24);
+  border: 2px solid rgba(230, 223, 199, 1);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  color: rgba(230, 223, 199, 1);
+}
+
+.main__hire-button:hover{
+  background-color: rgba(235, 207, 111, 0.24);
+  border: 2px solid  rgba(235, 207, 111, 1);
+  color: rgba(235, 207, 111, 1);
+  cursor:pointer;
+}

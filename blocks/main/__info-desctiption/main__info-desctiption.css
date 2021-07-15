@@ -1,0 +1,11 @@
+.main__info-desctiption{
+    max-width: 368px;
+    margin-bottom: 80px;
+}
+
+@media (max-width:768px) {
+    .main__info-desctiption{
+        max-width: 230px;
+        margin-bottom: 80px;
+    }
+}

@@ -1,0 +1,12 @@
+.main{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    width: calc(100% - 312px);
+}
+
+@media (max-width:768px) {
+    .main{
+        width: calc(100% - 60px);
+    }
+}

@@ -1,0 +1,8 @@
+.main__link_twitter{
+    background-image: url(../../../../images/twitter.svg);
+}
+
+.main__link_twitter:hover{
+    background-image: url(../../../../images/twitterActive.svg);
+    cursor: pointer;
+}

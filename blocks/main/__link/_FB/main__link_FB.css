@@ -1,0 +1,8 @@
+.main__link_FB{
+    background-image: url(../../../../images/facebook.svg);
+}
+
+.main__link_FB:hover{
+    background-image: url(../../../../images/facebookActive.png);
+    cursor: pointer;
+}
