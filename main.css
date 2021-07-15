@@ -365,7 +365,7 @@ template {
     width: 100vw;
     height: 100vh;
     background-image: url(51c4e3cb4f4578ef68c4.png);
-    object-fit: cover; 
+    background-size: cover;
     background-position: center; 
     background-repeat: no-repeat;
     -moz-osx-font-smoothing: grayscale;
@@ -455,7 +455,7 @@ template {
     }
 }
 .header__info-button{
-    background-image:url(d0ec605f5890342900f8.svg);
+    background-image:url(910b7a6fce9ef641fccd.svg);
     background-color: inherit;
     border: none;
     width:48px;
@@ -552,7 +552,7 @@ template {
     height:32px;
 }
 .main__link_FB{
-    background-image: url(7218053e1cf280c35d5d.svg);
+    background-image: url(a37bd5c61d5a8306d8a1.svg);
 }
 
 .main__link_FB:hover{
@@ -560,7 +560,7 @@ template {
     cursor: pointer;
 }
 .main__link_instagramm{
-    background-image: url(f4626cf57fb05bfb94a7.svg);
+    background-image: url(7de41e41689e091a5529.svg);
 }
 
 .main__link_instagramm:hover{
@@ -568,11 +568,11 @@ template {
     cursor: pointer;
 }
 .main__link_twitter{
-    background-image: url(1bfa0680dd058b0c6a03.svg);
+    background-image: url(920f8ab6d52e3b7c6aa1.svg);
 }
 
 .main__link_twitter:hover{
-    background-image: url(0c6491849c685b70eef6.svg);
+    background-image: url(91d341a5f5954c6c69b6.svg);
     cursor: pointer;
 }
 .overlay{
