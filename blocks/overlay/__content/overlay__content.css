@@ -1,4 +1,5 @@
 .overlay__content{
     list-style: none;
-    padding:none
+    padding:none;
+    text-align: right;
 }

@@ -28,7 +28,5 @@
 @import url(../blocks/overlay/__content/overlay__content.css);
 @import url(../blocks/overlay/__close-button/overlay__close-button.css);
 @import url(../blocks/overlay/__link/overlay__link.css);
+@import url(../blocks/overlay/_is-active/overlay_is-active.css);
 
-.border{
-    border:1px solid red;
-}
